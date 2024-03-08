@@ -21,7 +21,7 @@ export const App = () => {
     <div>
       <h1>{name}</h1>
       <p>Ласкаво просимо до нашого сайту!</p>
-      <a href="">{google}</a>
+      <a href="#1">{google}</a>
       <p>{num1}<br/>{num2}</p>
       <ul>
         {colorMap}
